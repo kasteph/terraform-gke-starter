@@ -1,7 +1,8 @@
+# Required Variables
 variable "project_id" {
-  description = "provider project id"
+  description = "Provider project id."
 }
 
 variable "region" {
-  description = "provider region"
+  description = "Provider region."
 }
